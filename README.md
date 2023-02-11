@@ -1,5 +1,9 @@
 # E-Hatch
+
+
 An application to offer one stop solution for connecting mentors with enterprising people. Creative program, product designed to enhance continued associations between mentors and entrepreneurs.
+
+
 ##Automated community management : An ecosystem where users can post and respond to queries , achievements using upvote and downvote mechanism with an ML based content
 filterthat checks content with community guidelines. The maintenance, verification of investors' and mentors' documentations, setting up, scheduling meetings by
 integrating zoom API and providing a simple interface for mentors and entrepreneurs.
